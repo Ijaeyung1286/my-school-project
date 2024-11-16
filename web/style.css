@@ -1,0 +1,12 @@
+.product{
+    border-radius: 5px;
+    border: 1px solid #b7b1b1;
+    width: 200px;
+    padding: 5px;
+}
+.picture{
+    border-radius: 5px;
+}
+.info{
+    color: blue;
+}
